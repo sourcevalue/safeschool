@@ -18,22 +18,16 @@
 </style>
 
 <script>
+<button onclick="openWindow();">Clear visual history</button>
+
+<script>
 function openWindow() {
-  	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
-	window.open("about:blank", "_blank");
+  for (let i = 0; i < 10; i++) {
+    window.open("about:blank", "_blank");
+  }
 }
 </script>
+
 
 
 <link rel="icon" type="image/png" href="favico.png" sizes="16x16"/>
