@@ -1,5 +1,16 @@
 $('a.silly').click(function(e) {
     e.preventDefault();
-    window.open('http://yoururl1.com');
-    window.open('http://yoururl2.com');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
+    window.open('about:blank');
 });
