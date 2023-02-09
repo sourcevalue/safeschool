@@ -1,5 +1,6 @@
 # Safeschool
-A webpage that allows you to drag and drop ingot into the bookmarks. 
+A webpage that allows you to drag and drop ingot into the bookmarks.
+The webpage also allows you to access a google 404 page, and clear the history if blocked (spams about:blank)
 
 ### Installation
 Visit 
